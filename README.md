@@ -27,3 +27,9 @@ Future plans for this site include deploying "My Book Nook" and "Library" pages.
 <img src="./Assets/screenShots/screenShot2.jpeg" alt="search" width="700">
 <img src="./Assets/screenShots/screenShot3.jpeg" alt="results" width="700">
 
+[Deployed link](https://gary-bergman.github.io/Book-Nook/)
+
+
+[My github](https://github.com/Gary-Bergman)
+
+
